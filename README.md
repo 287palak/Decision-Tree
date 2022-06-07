@@ -1,6 +1,6 @@
 # Decision-Tree
   
-##Question 1.
+## Question 1.
 You need to implement a classification decision tree (DT) from scratch [you are not permitted to use
 any 3rd-party library’s function for the classifier e.g. scikit. You may, however, use built-in functions for
 auxiliary tasks like train/test split, etc.].
@@ -24,7 +24,7 @@ b. The algorithm should self-identify when there is no information gain being do
 7. Find out the accuracy you get on the test data (overall and class-wise).
 Note: Implementing the wrong cost function will attract a loss of credit in the above question.
   
-##Question 2. 
+## Question 2. 
 This question involves performing regression using a decision tree. You are permitted to use the sklearn library for this question. The dataset involves energy analysis, and this problem is centered around understanding how machine learning is applied in the industry.
 The dataset contains eight attributes (X1, ..., X8) (representative of different properties of buildings like height, roof area, etc.) and one response (Y1) (the heating load for the building). The aim is to use the
 eight features to predict Y1. (You are permitted to use 3rd-party libraries for this question).
